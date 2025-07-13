@@ -43,7 +43,7 @@ body {
 	--nav-deep-grey: #94959b;
 	--nav-blue: rgb(220, 121, 45);
 	--nav-blue-shade: #8f550e;
-	--card-blue-shade: #292929;
+	--card-blue-shade: #403011;
 	--nav-deep-blue: #2c2f3f;
 	--nav-bgd: #040b14;
 	--white: #fff;
@@ -71,7 +71,7 @@ body {
 }
 
 .loader {
-	background-color: #00021a;
+	background-color: #1f1f1f;
 	height: 100vh;
 	width: 100vw;
 	display: flex;
@@ -109,7 +109,7 @@ body {
 	stroke-dashoffset: -474;
 	stroke-width: 8px;
 	fill: transparent;
-	stroke: #149ddd;
+	stroke: #dd9714;
 	border: 5px solid black;
 	animation: 3s ease 0s 1 pageLoad;
 }
